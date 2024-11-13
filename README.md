@@ -1,5 +1,5 @@
 # search_tags_C
 
-para usar, simplesmente correr "make" no terminal.  será criado um .exe 
-existem 2 implementações, uma com JSON parsing e outra sem. para usar a com string manipulation correr "make text" que cria um text.exe
-é necessário ter os dois .txt na mesma diretoria, com os nomes TweetFile.exe e hashtags.exe (ou mudar a instância onde são abertos os ficheiros)
+To use, simply run make in the terminal. An executable file will be created.
+There are two implementations: one with JSON parsing and one without. To use the version with string manipulation, run make text, which will create a text.exe.
+It is necessary to have the two .txt files in the same directory, named TweetFile.exe and hashtags.exe (or change the instance where the files are opened).
